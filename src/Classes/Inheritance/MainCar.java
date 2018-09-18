@@ -1,6 +1,8 @@
-package Classes;
+package Classes.Inheritance;
 
-public class Main {
+import Classes.Inheritance.Car;
+
+public class MainCar {
 
     public static void main(String[] args) {
         Car porsche = new Car();
